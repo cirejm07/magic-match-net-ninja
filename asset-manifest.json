@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/magic-match-net-ninja/static/css/main.2cb98701.css",
+    "main.js": "/magic-match-net-ninja/static/js/main.dbca507e.js",
+    "index.html": "/magic-match-net-ninja/index.html",
+    "main.2cb98701.css.map": "/magic-match-net-ninja/static/css/main.2cb98701.css.map",
+    "main.dbca507e.js.map": "/magic-match-net-ninja/static/js/main.dbca507e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cb98701.css",
+    "static/js/main.dbca507e.js"
+  ]
+}
