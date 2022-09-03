@@ -5,7 +5,7 @@ export default function SingleCard({card, handleChoice, flipped, disabled}) {
 const handleClick = () => {
   if(!disabled) {
     handleChoice(card)
-  }
+  } 
 }
 
   return (
@@ -18,7 +18,7 @@ const handleClick = () => {
               <img 
               onClick={handleClick} 
               className='back' 
-              src="/img/cover.png" 
+              src="img/cover.png" 
               alt="card-back" />
             </div>
           </div>
